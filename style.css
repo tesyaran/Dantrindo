@@ -7,6 +7,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.medsos {
+    padding: 5px 0;
+    background-color: #00a13a;
+}
+
 .boot_menu {
     padding: 18px 50px;
     background-color: #fff;
